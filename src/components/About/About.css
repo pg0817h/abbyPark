@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@600&display=swap');
+
+.About{
+}
+
+.name_des{
+    font-size: 1rem;
+    color: black;
+    font-family: 'Source Serif Pro', serif;
+    position:absolute;
+    top: 90%;
+   
+}
+.gif{
+    padding-left: 10%;
+    
+}
+.gif:hover{
+    transition-duration: 1s;
+    transition-delay: 1s;
+    color: tan
+}
+.layout{
+    display: flex;
+
+}
+.one{
+    flex:1 1 auto;
+   
+}
+.two{
+    flex:1 1 auto;
+}
